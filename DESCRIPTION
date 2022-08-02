@@ -1,0 +1,14 @@
+Package: cmlDIFlasso
+Type: Package
+Title: DIF-detection with Lasso-methods in a cML-Framework
+Version: 0.1.3
+Author: anonymous
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: DIF-detection with Lasso-methods in a cML-Framework, circumventing problems of related apporaches. (Bugfixes to 0.1.3, wrap parameters fixed, sim$data fixed, no_of_cores taken out at one point)
+Depends: lbfgs, psychotools, parallel, doParallel, foreach, benchmarkme
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
+NeedsCompilation: no
+Packaged: 2020-04-20 20:07:47 UTC; User
